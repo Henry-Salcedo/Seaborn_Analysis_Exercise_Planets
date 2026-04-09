@@ -1,4 +1,4 @@
-# Seaborn_Analysis_Exercise_Planets
+# Seaborn_Analysis_Exercise/Planets
 
 ## Puropse
   Creating several visual with a main focus on Seaborn to analyis the diffrent datasets.
